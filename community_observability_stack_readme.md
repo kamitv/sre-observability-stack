@@ -29,7 +29,7 @@ Follow these steps to initialize and run your observability stack:
 Navigate to your project folder where your `docker-compose.yml` is located:
 
 ```
-cd observability-stack
+cd sre-observability-stack
 
 ```
 
